@@ -1,0 +1,1 @@
+export const url_api = "http://local.belvi.ninja/api/";
